@@ -443,7 +443,8 @@ toolbar[3][7]=signs(1)
 toolbar[3][8]=-
 toolbar[3][9]=buildings(34,1)
 toolbar[3][10]=buildings(35,1)
-toolbar[3][11]=general_tool[14],,s,1
+# key: s
+toolbar[3][11]=general_tool[14],,1,1
 toolbar[3][12]=buildings(33,1)
 toolbar[3][13]=general_tool[33],124,,1
 toolbar[3][14]=general_tool[17],82,,1
@@ -473,6 +474,7 @@ toolbar[4][18]=buildings(33,7)
 toolbar[4][19]=general_tool[33],125,,2
 toolbar[4][20]=general_tool[17],86,,2
 toolbar[4][21]=-b,87
+toolbar[4][22]=general_tool[14],,2,8
 
 # railtools (waytype 8)
 toolbar[5][0]=-,88
